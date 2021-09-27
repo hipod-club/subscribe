@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://www.ximalaya.com/album/40907109.xml" type="application/rss+xml" rel="self"></atom:link>
+        <copyright><![CDATA[ZNing]]></copyright>
+        <language>zh-cn</language>
+        <link>http://www.ximalaya.com</link>
+        <title><![CDATA[慧响拉呱]]></title>
+        <itunes:author><![CDATA[ZNing]]></itunes:author>
+        <itunes:subtitle><![CDATA[慧响拉呱]]></itunes:subtitle>
+        <itunes:summary><![CDATA[评谈生慧，不同凡响，这里是慧响拉呱。欢迎收听~ 慧响拉呱节目为泛科技泛金融泛商业闲谈播客节目，将主要通过互联网及泛科技行业或企业热点跟踪，结合资本市场反馈，提供一些独到的分析。]]></itunes:summary>
+        <itunes:owner>
+            <itunes:name><![CDATA[ZNing]]></itunes:name>
+            <itunes:email>zhn038@gmail.com</itunes:email>
+        </itunes:owner>
+
+        <description><![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;">评谈生慧，不同凡响，这里是慧响拉呱。</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;">欢迎收听~</p><span><br /></span><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;"><span>慧响拉呱节目为泛科技泛金融泛商业闲谈播客节目，将主要通过互联网及泛科技行业或企业热点跟踪，结合资本市场反馈，提供一些独到的分析。</span><br /></p>]]></description>
+        <itunes:image
+                href="https://fdfs.xmcdn.com/storages/ecca-audiofreehighqps/98/08/CKwRIasE-CVcAAPS7ADa8rFQ.jpeg"
+        />
+                <itunes:category text="Technology">
+                </itunes:category>
+                <itunes:category text="Business">
+                <itunes:category text="Investing"/>
+                </itunes:category>
+                <itunes:category text="Business">
+                <itunes:category text="Management"/>
+                </itunes:category>
+        <itunes:explicit>false</itunes:explicit>
+
+            <item>
+                <title><![CDATA[E004 “错的是这个世界”让阳春白雪成为小众；元宇宙？为时尚早]]></title>
+                <itunes:author><![CDATA[ZNing]]></itunes:author>
+                <itunes:subtitle><![CDATA[E004 “错的是这个世界”让阳春白雪成为小众；元宇宙？为时尚早]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/7beb-audiofreehighqps/E8/9A/CMCoOSME-CTdAAaURgDa8nfs.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//CKwRIW4FIk_mAMgmUwDl9IeI.m4a?channel=rss&amp;album_id=40907109&amp;track_id=456172171&amp;uid=250932269&amp;jt=http://audio.xmcdn.com/storages/701a-audiofreehighqps/5F/5A/CKwRIW4FIk_mAMgmUwDl9IeI.m4a"
+                        type="audio/x-m4a"
+                        length="622166518"
+                />
+                <guid>http://audio.xmcdn.com/storages/701a-audiofreehighqps/5F/5A/CKwRIW4FIk_mAMgmUwDl9IeI.m4a</guid>
+                <pubDate>Thu, 23 Sep 2021 14:17:46 GMT</pubDate>
+                <itunes:duration>27:00</itunes:duration>
+                <link>https://www.ximalaya.com//250932269/sound/456172171</link>
+                <description>
+                    <![CDATA[E004 “错的是这个世界”让“阳春白雪”成为小众；元宇宙？为时尚早~<br><br>[01:15] 慧响拉呱栏目文章《由Golang谈到的历史发展规律》引发的话题<br>[01:36] 不会写程序也能听，这个事儿还是挺有意思的<br>[03:25] “错的是这个世界，而不是我”，让一个优秀的语言成为小众<br>[05:18] 行行都有“阳春白雪”：昆曲与京剧、相声<br>[06:28] Python的火，或许就是这样的原因<br>[07:50] 行行都摆脱不了“阳春白雪”：读书、听书与现实演出、虚拟主播<br>[13:23] 只要快乐，啥都行<br>[14:55] 元宇宙(metaverse)是什么以及技术人眼中的元宇宙<br>[18:00] 元宇宙的关键技术AR/VR的瓶颈<br>[18:50] 元宇宙的亮点：身临其境、沉浸式的、共同创作、堪比真实的“虚拟世界”<br>[19:34] 元宇宙概念，还是有点早。为什么？<br>[21:40] 元宇宙的配套设备的价格，还是有点难以承受<br>[23:23] 元宇宙对文娱互联网和文娱产业的发展，将带入一个新的时代，但也是一个新的泡沫的开始]]>
+                </description>
+                <itunes:order>1</itunes:order>
+            </item>
+            <item>
+                <title><![CDATA[E003 中秋快乐！千岛湖的放空度假游记与个人IP的一系列碎碎念]]></title>
+                <itunes:author><![CDATA[ZNing]]></itunes:author>
+                <itunes:subtitle><![CDATA[E003 中秋快乐！千岛湖的放空度假游记与个人IP的一系列碎碎念]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/7beb-audiofreehighqps/E8/9A/CMCoOSME-CTdAAaURgDa8nfs.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//CKwRINsFH1EMAQ5gYQDlL5hd.m4a?channel=rss&amp;album_id=40907109&amp;track_id=455458985&amp;uid=250932269&amp;jt=http://audio.xmcdn.com/storages/2726-audiofreehighqps/53/B1/CKwRINsFH1EMAQ5gYQDlL5hd.m4a"
+                        type="audio/x-m4a"
+                        length="840496778"
+                />
+                <guid>http://audio.xmcdn.com/storages/2726-audiofreehighqps/53/B1/CKwRINsFH1EMAQ5gYQDlL5hd.m4a</guid>
+                <pubDate>Tue, 21 Sep 2021 07:45:38 GMT</pubDate>
+                <itunes:duration>36:28</itunes:duration>
+                <link>https://www.ximalaya.com//250932269/sound/455458985</link>
+                <description>
+                    <![CDATA[[02:19] IHG千岛湖假日酒店 Qiandaohu Holiday Inn，新店新鲜，值得体验<br>[05:30] 千岛湖假日竟然给我这个IHG SA升级到了顶楼套房，456体验湖景亲子主题套房，受宠若惊<br>[07:45] 千岛湖假日的早餐：千岛湖特色的米羹，有点意思<br>[10:40] IHG千岛湖洲际度假酒店 InterContinental One Thousand Island Lake Resort，不虚此行，名不虚传<br>[14:05] 千岛湖的黄山尖：一览无遗千岛之静<br>[15:05] 反思自省：个人IP、UGC时代增长期的错失与思考<br>[17:30] 对于自己“慧响”个人IP的思考与个人IP中个性化的想法<br>[20:26] 人之个性，随他而去<br>[23:40] 抖音的算法逻辑，个人迷惑之逻辑怪圈：是算法掌控了人，还是人去掌握了算法<br>[25:05] 可能，在UGC时代的今天，我们被困在了算法内<br>[28:30] 在千岛湖放空自己后，重新对“慧响”个人IP的设想的曝光<br>[29:56] 《慧响拉呱》下期节目预告<br>[33:10] 张宁网5000天之际，“慧响”四大板块（栏目）正式调整敲定<br>[35:22] “我先走通再说，你管呢？”]]>
+                </description>
+                <itunes:order>2</itunes:order>
+            </item>
+            <item>
+                <title><![CDATA[E002 明确了：“996”违法；《算法推荐管理规定》征求意见]]></title>
+                <itunes:author><![CDATA[ZNing]]></itunes:author>
+                <itunes:subtitle><![CDATA[E002 明确了：“996”违法；《算法推荐管理规定》征求意见]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/7beb-audiofreehighqps/E8/9A/CMCoOSME-CTdAAaURgDa8nfs.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//CKwRIW4FARgZAPyeGQDdk3WF.m4a?channel=rss&amp;album_id=40907109&amp;track_id=448581544&amp;uid=250932269&amp;jt=http://audio.xmcdn.com/storages/123b-audiofreehighqps/40/97/CKwRIW4FARgZAPyeGQDdk3WF.m4a"
+                        type="audio/x-m4a"
+                        length="785284870"
+                />
+                <guid>http://audio.xmcdn.com/storages/123b-audiofreehighqps/40/97/CKwRIW4FARgZAPyeGQDdk3WF.m4a</guid>
+                <pubDate>Sun, 29 Aug 2021 09:34:57 GMT</pubDate>
+                <itunes:duration>34:04</itunes:duration>
+                <link>https://www.ximalaya.com//250932269/sound/448581544</link>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;" data-flag="normal"><span>E002 典型案例明确了：“996”违法；《算法推荐管理规定》征求意见，影响你我~</span><br></p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">[02:06]两件比娱乐圈更大的事儿，真切影响你我</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">[02:40]人社部、最高人民法院联合发布第二批劳动人事争议典型案例，“996”？违法！</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">[13:50]网信办对《互联网信息服务算法推荐管理规定（征求意见稿）》公开征求意见</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">[25:02]互联网产业的未来，走向何方？</p>]]>
+                </description>
+                <itunes:order>3</itunes:order>
+            </item>
+            <item>
+                <title><![CDATA[E001 什么？年收12万以上算高收入？不要慌]]></title>
+                <itunes:author><![CDATA[ZNing]]></itunes:author>
+                <itunes:subtitle><![CDATA[E001 什么？年收12万以上算高收入？不要慌]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/c2cf-audiofreehighqps/0A/B4/CKwRIaIFAVn8AAP5agDdrtU2.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//CKwRIJIE98coAF7mBwDayw4Z.m4a?channel=rss&amp;album_id=40907109&amp;track_id=446305795&amp;uid=250932269&amp;jt=http://audio.xmcdn.com/storages/0678-audiofreehighqps/8F/F4/CKwRIJIE98coAF7mBwDayw4Z.m4a"
+                        type="audio/x-m4a"
+                        length="294958292"
+                />
+                <guid>http://audio.xmcdn.com/storages/0678-audiofreehighqps/8F/F4/CKwRIJIE98coAF7mBwDayw4Z.m4a</guid>
+                <pubDate>Sun, 22 Aug 2021 07:59:55 GMT</pubDate>
+                <itunes:duration>12:48</itunes:duration>
+                <link>https://www.ximalaya.com//250932269/sound/446305795</link>
+                <description>
+                    <![CDATA[E001 <br>什么？年收12万以上算高收入？不要慌<br>腾讯拿出500亿助力共同富裕，不愧是大局为重；<br>大厂不再享受高新软件税收优惠，有何影响？]]>
+                </description>
+                <itunes:order>4</itunes:order>
+            </item>
+            <item>
+                <title><![CDATA[E000 创辑号：4777天的坚持与第4777天的全新尝试]]></title>
+                <itunes:author><![CDATA[ZNing]]></itunes:author>
+                <itunes:subtitle><![CDATA[E000 创辑号：4777天的坚持与第4777天的全新尝试]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/463b-audiofreehighqps/31/DA/CKwRIUEFAVoLAAP5agDdrtv-.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//CKwRIaIE8v7hAEwJ0ADZZ5Un.m4a?channel=rss&amp;album_id=40907109&amp;track_id=445136660&amp;uid=250932269&amp;jt=http://audio.xmcdn.com/storages/2e49-audiofreehighqps/8C/43/CKwRIaIE8v7hAEwJ0ADZZ5Un.m4a"
+                        type="audio/x-m4a"
+                        length="236314820"
+                />
+                <guid>http://audio.xmcdn.com/storages/2e49-audiofreehighqps/8C/43/CKwRIaIE8v7hAEwJ0ADZZ5Un.m4a</guid>
+                <pubDate>Wed, 18 Aug 2021 16:56:41 GMT</pubDate>
+                <itunes:duration>10:15</itunes:duration>
+                <link>https://www.ximalaya.com//250932269/sound/445136660</link>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">E000 慧响拉呱第0期节目，创辑号<br>讲述一个4777天坚持的故事<br>展望一个第4777天新尝试的愿景</p>]]>
+                </description>
+                <itunes:order>5</itunes:order>
+            </item>
+    </channel>
+</rss>
