@@ -2,7 +2,7 @@ name: 'HiPod Club Podcast RSS Actions'
 
 on:
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '26 4,16 * * *'
 
 jobs:
   build:
