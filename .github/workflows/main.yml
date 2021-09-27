@@ -1,0 +1,59 @@
+name: 'HiPod Club Podcast RSS Actions'
+
+on:
+  schedule:
+    - cron: '*/6 * * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout from repo
+      uses: actions/checkout@main
+      with:
+        ref: main
+
+    - name: Checkout tool repo
+      uses: actions/checkout@main
+      with:
+        ref: main
+
+    - name: Checkout private tools
+      uses: actions/checkout@main
+      with:
+        repository: hipod-club/convert
+        token: ${{ secrets.GitHub_PAT }} # `GitHub_PAT` is a secret that contains your PAT
+        path: xml
+    
+    - name: Install Python latest
+      uses: actions/setup-python@main
+      with:
+        python-version: '3.x'
+        architecture: 'x64'
+
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+ 
+    - name: Doing fetch and convert
+      run: |
+        cd xml;
+        python convertRSS.py -l http://www.ximalaya.com/album/51684320.xml -n 老狐狸 -e 149724758@qq.com;
+        python convertRSS.py -l http://www.ximalaya.com/album/48685190.xml -n 伊塔塔 -e 1305630048@qq.com;
+        python convertRSS.py -l http://www.ximalaya.com/album/52038074.xml -n 看云闲人 -e sing11233@qq.com;
+        python convertRSS.py -l http://www.ximalaya.com/album/52242064.xml -n 喜马主播逍遥花语 -e 472809527@qq.com;
+
+    - name: Commit files
+      run: |
+        git config --local user.email "zhn038@gmail.com"
+        git config --local user.name "ZNing"
+        git add .
+        git commit -m "提交HiPod club音频RSS XML更新 $(date "+%Y-%m-%d %H:%M:%S")"
+ 
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
