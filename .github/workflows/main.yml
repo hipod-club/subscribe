@@ -15,11 +15,6 @@ jobs:
       with:
         ref: main
 
-    - name: Checkout tool repo
-      uses: actions/checkout@main
-      with:
-        ref: main
-
     - name: Checkout private tools
       uses: actions/checkout@main
       with:
