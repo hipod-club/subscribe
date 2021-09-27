@@ -39,6 +39,7 @@ jobs:
         python convertRSS.py -l http://www.ximalaya.com/album/48685190.xml -n 伊塔塔 -e 1305630048@qq.com;
         python convertRSS.py -l http://www.ximalaya.com/album/52038074.xml -n 看云闲人 -e sing11233@qq.com;
         python convertRSS.py -l http://www.ximalaya.com/album/52242064.xml -n 喜马主播逍遥花语 -e 472809527@qq.com;
+        python convertRSS.py -l http://www.ximalaya.com/album/40907072.xml -n ZNing -e zhn038@gmail.com;
 
     - name: Commit files
       run: |
