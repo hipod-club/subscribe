@@ -19,7 +19,7 @@ jobs:
       uses: actions/checkout@main
       with:
         repository: hipod-club/convert
-        token: ${{ secrets.GITHUB_TOKEN }} # `GitHub_PAT` is a secret that contains your PAT
+        token: ${{ secrets.CONVERT_TOKEN }}
         path: xml
     
     - name: Install Python latest
@@ -50,5 +50,5 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.CONVERT_TOKEN }}
         branch: main
