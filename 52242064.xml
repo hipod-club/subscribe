@@ -347,5 +347,25 @@
                 </description>
                 <itunes:order>16</itunes:order>
             </item>
+            <item>
+                <title><![CDATA[《不见》|你好，我是杜甫，我找李白！]]></title>
+                <itunes:author><![CDATA[逍遥花语]]></itunes:author>
+                <itunes:subtitle><![CDATA[《不见》|你好，我是杜甫，我找李白！]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/772b-audiofreehighqps/E9/DE/GKwRIaIFauJtAAIFPQD4asZZ.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//GKwRIUEFauNDAHvUzwD4awp8.m4a?channel=rss&amp;album_id=52242064&amp;track_id=473433225&amp;uid=116561233&amp;jt=http://audio.xmcdn.com/storages/775a-audiofreehighqps/3D/07/GKwRIUEFauNDAHvUzwD4awp8.m4a"
+                        type="audio/x-m4a"
+                        length="24027436"
+                />
+                <guid>http://audio.xmcdn.com/storages/775a-audiofreehighqps/3D/07/GKwRIUEFauNDAHvUzwD4awp8.m4a</guid>
+                <pubDate>Wed, 17 Nov 2021 15:30:51 GMT</pubDate>
+                <itunes:duration>16:42</itunes:duration>
+                <link>https://www.ximalaya.com//116561233/sound/473433225</link>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">诗词歌赋：</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">《不见》</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">[ 唐 ]&nbsp; 杜甫</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">不见李生久，佯狂真可哀。</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">世人皆欲杀，吾意独怜才。</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">敏捷诗千首，飘零酒一杯。</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">匡山读书处，头白好归来。</p><br><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">CV表：</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">仙紫——逍遥</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">杜甫——天涯明月老狐狸</p>]]>
+                </description>
+                <itunes:order>17</itunes:order>
+            </item>
     </channel>
 </rss>
