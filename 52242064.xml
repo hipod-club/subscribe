@@ -407,5 +407,25 @@
                 </description>
                 <itunes:order>19</itunes:order>
             </item>
+            <item>
+                <title><![CDATA[《凤歌》|孔子想做官是追名逐利！是谁嘲笑圣人太傻？]]></title>
+                <itunes:author><![CDATA[逍遥花语]]></itunes:author>
+                <itunes:subtitle><![CDATA[《凤歌》|孔子想做官是追名逐利！是谁嘲笑圣人太傻？]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/a648-audiofreehighqps/95/93/GMCoOSAFhn4sAAKjfwEACeHH.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//GKwRIDoFhn7fAHbwPQEACk5o.m4a?channel=rss&amp;album_id=52242064&amp;track_id=480476501&amp;uid=116561233&amp;jt=http://audio.xmcdn.com/storages/e825-audiofreehighqps/50/59/GKwRIDoFhn7fAHbwPQEACk5o.m4a"
+                        type="audio/x-m4a"
+                        length="23078522"
+                />
+                <guid>xmly_track_480476501</guid>
+                <pubDate>Wed, 08 Dec 2021 14:05:57 GMT</pubDate>
+                <itunes:duration>16:02</itunes:duration>
+                <link>https://www.ximalaya.com//116561233/sound/480476501</link>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">诗词歌赋：</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">《凤歌》</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">凤兮凤兮！</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">何德之衰？</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">往者不可谏，</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">来者犹可追。</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">已而，已而！</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">今之从政者殆而！</p>]]>
+                </description>
+                <itunes:order>20</itunes:order>
+            </item>
     </channel>
 </rss>
