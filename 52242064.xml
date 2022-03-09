@@ -688,5 +688,25 @@
                 </description>
                 <itunes:order>32</itunes:order>
             </item>
+            <item>
+                <title><![CDATA[《破阵子》|做个词人真绝代，可怜薄命做君王]]></title>
+                <itunes:author><![CDATA[逍遥花语]]></itunes:author>
+                <itunes:subtitle><![CDATA[《破阵子》|做个词人真绝代，可怜薄命做君王]]></itunes:subtitle>
+
+                <itunes:image href="https://fdfs.xmcdn.com/storages/19f0-audiofreehighqps/2D/F6/GKwRIMAF_oMRAAKJ0AEmMLM_.jpeg"></itunes:image>
+                <enclosure
+                        url="https://jt.ximalaya.com//GKwRIasF_oOJAHZqnAEmMOlQ.m4a?channel=rss&amp;album_id=52242064&amp;track_id=509275305&amp;uid=116561233&amp;jt=http://audio.xmcdn.com/storages/1b78-audiofreehighqps/A6/0B/GKwRIasF_oOJAHZqnAEmMOlQ.m4a"
+                        type="audio/x-m4a"
+                        length="38314264"
+                />
+                <guid>xmly_track_509275305</guid>
+                <pubDate>Wed, 09 Mar 2022 14:57:50 GMT</pubDate>
+                <itunes:duration>15:58</itunes:duration>
+                <link>https://www.ximalaya.com//116561233/sound/509275305</link>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">诗词歌赋：</p><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">《破阵子》<br>四十年来家国，三千里地山河。凤阁龙楼连霄汉，玉树琼枝作烟萝，几曾识干戈？<br>一旦归为臣虏，沈腰潘鬓消磨。最是仓皇辞庙日，教坊犹奏别离歌，垂泪对宫娥。<br>《渡中江望石城泣下》<br>江南江北旧家乡，三十年来梦一场。<br>吴苑宫闱今冷落，广陵台殿已荒凉。<br>云笼远岫愁千片，雨打归舟泪万行。<br>兄弟四人三百口，不堪闲坐细思量。<br><br></p>]]>
+                </description>
+                <itunes:order>33</itunes:order>
+            </item>
     </channel>
 </rss>
